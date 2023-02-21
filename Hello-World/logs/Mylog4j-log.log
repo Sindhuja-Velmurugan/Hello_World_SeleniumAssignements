@@ -1,0 +1,6 @@
+['INFO ]2023-02-04 21:51:37,779(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Info  - Addition of integers
+['ERROR]2023-02-04 21:51:37,783(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error - You can not divide a number by zero
+['WARN ]2023-02-04 21:51:37,783(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Warning - Testing
+['INFO ]2023-02-04 21:52:12,818(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Info  - Addition of integers
+['ERROR]2023-02-04 21:52:12,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error - You can not divide a number by zero
+['WARN ]2023-02-04 21:52:12,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Warning - Testing
